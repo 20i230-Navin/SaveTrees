@@ -4,7 +4,9 @@
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
 }
+
 /* head */
 nav>ul
 {
@@ -556,7 +558,10 @@ header img
 }
 
 footer
-{
-    height: 50vh;
+{   display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    color:white;
     background-color: black;
 }

@@ -11,7 +11,7 @@ function openContent1()
     content1.style.transform="translateX(0%)";
     content2.style.transform="translateX(100%)";
     content3.style.transform="translateX(100%)";
-    btn1.style.color="#ff7846";
+    btn1.style.color="#41a148";
     btn2.style.color="black";
     btn3.style.color="black";
     
@@ -26,7 +26,7 @@ function openContent2()
     content2.style.transform="translateX(0%)";
     content3.style.transform="translateX(100%)";
     btn1.style.color="black";
-    btn2.style.color="#ff7846";
+    btn2.style.color="#41a148";
     btn3.style.color="black";
 
     content1.style.transitionDelay="0s";
@@ -44,7 +44,7 @@ function openContent3()
 
     btn1.style.color="black";
     btn2.style.color="black";
-    btn3.style.color="#ff7846";
+    btn3.style.color="#41a148";
 
     
     content1.style.transitionDelay="0s";
